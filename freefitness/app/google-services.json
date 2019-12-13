@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902739111835",
+    "firebase_url": "https://free-fitness-b36c3.firebaseio.com",
+    "project_id": "free-fitness-b36c3",
+    "storage_bucket": "free-fitness-b36c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902739111835:android:57c97b738f6f1369e2fb3e",
+        "android_client_info": {
+          "package_name": "com.sstinc.freefitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902739111835-f0mu9qlg1j7s00i5e6215u4s4i60um3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sstinc.freefitness",
+            "certificate_hash": "4afe98ccf320f6b3cfa5cec89780dcb015a523f8"
+          }
+        },
+        {
+          "client_id": "902739111835-tvt3n8hi24f898q030iu3muma2ljqf6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO1L3zLBC9LHiIQs-yd0or_7rksX-j6Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902739111835-tvt3n8hi24f898q030iu3muma2ljqf6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

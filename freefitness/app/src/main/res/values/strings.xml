@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">freeFitness</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="registerLogin">Need to Register? Click here to signup.</string>
+    <string name="accountAlreadySetup">Already have an account? Click here to login.</string>
+    <string name="title_signin_register">Register an Account</string>
+    <string name="title_activity_register">Register Today</string>
+    <string name="auth_failed">Authorization Failed. Try again.</string>
+    <string name="minimum_password">Password Must be longer than atleast 8 characters long.</string>
+    <string name="logout">Logout</string>
+    <string name="freeFitnessTitle">Free Fitness</string>
+    <string name="weightHint">Enter Weight here</string>
+    <string name="repHint">Enter Reps Done here</string>
+    <string name="setPrompt">Sets</string>
+    <string-array name="setChoices">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string name="finishWorkout">End Workout</string>
+    <string name="nextExcerise">Next Excerise</string>
+    <string name="homePage">Home Page</string>
+    <string name="logWorkout">Log Workout</string>
+    <string name="trendPage">Trends</string>
+    <string name="BMIPage">BMI</string>
+    <string name="amount">Enter Amount</string>
+    <string name="calTitle">Calendar Page</string>
+    <string-array name="weight">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+    <string-array name="height">
+        <item>Meters</item>
+        <item>Inches</item>
+    </string-array>
+</resources>

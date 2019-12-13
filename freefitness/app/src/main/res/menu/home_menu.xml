@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homePage"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/homePage"
+        />
+    <item android:id="@+id/logWorkoutPage"
+        android:icon="@drawable/ic_weight_lifting_1297690"
+        android:title="@string/logWorkout"
+        />
+    <item android:id="@+id/trendPage"
+        android:icon="@drawable/ic_insert_chart_black_24dp"
+        android:title="@string/trendPage"
+        />
+
+
+    <item android:id="@+id/BMIPage"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="@string/BMIPage"
+        />
+    <!--<item android:id="@+id/calendarPage"-->
+        <!--android:icon="@drawable/ic_calendar"-->
+        <!--android:title="@string/calTitle"-->
+        <!--/>-->
+</menu>
