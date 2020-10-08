@@ -17,3 +17,6 @@ This page allows the user to see their progress as they continue to use the app.
 
 ### Calculate BMI
 This pages allows the user to check their BMI by entering their height and weight. The app then displays the BMI value along with the range it falls into.
+
+
+[![Run on Repl.it](https://repl.it/badge/github/sstocci/FreeFitness)](https://repl.it/github/sstocci/FreeFitness)
